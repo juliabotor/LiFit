@@ -46,3 +46,5 @@ IMAGEM
    - `Configurar treino pré-definido`: criar novo treino (inserir nome dos exercicios, número de séries e número de repetições)
    - `Visualizar treino`: selecionar treino que deseja visualizar
    - `Sair`
+
+
