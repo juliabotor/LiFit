@@ -19,22 +19,30 @@ IMAGEM
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-- Descrição do Projeto:
+# Descrição do Projeto:
     
     O LiFit é uma aplicação mobile que conecta o seu dispositivo wearable ao seu celular com a finalidade de visualizar seus sinais vitais, acompanhar seus treinos e monitorar sua forma física com os dados coletados do seu wearable.
     
     O sistema LiFit permite que o monitoramento diário dos sinais vitais, e treinos e metas personalizadas seja simples e intuitiva. O app possibilita que o seu instrutor de preferência  acompanhe e valide os seus treinos tendo acesso a informações sobre as variações dos batimentos cardíacos e pressão arterial.
 
-- Status do Projeto:
+# Status do Projeto:
     
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
 
-- Funcionalidades:
     
-    # :hammer: Funcionalidades do projeto
+# :hammer: Funcionalidades do projeto
+
+O menu inicial é composto por 3 opções:
     
-    - `Funcionalidade 2`: descrição da funcionalidade 2
-    - `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-    - `Funcionalidade 3`: descrição da funcionalidade 3
+    - `Login`: entrar com login e senha e inserir sua classe (aluno ou treinador)
+    - `Cadastrar-se`: inserir login, senha, inserir classe e informações pessoais (nome, peso, altura, gênero de nascimento e idade).
+    - `Sair`: encerrar o app
+    
+Segundo menu:
+   
+   - `Atualizar dados de usuário`
+   - `Configurar treino pré-definido`: criar novo treino (inserir nome dos exercicios, número de séries e número de repetições)
+   - `Visualizar treino`: selecionar treino que deseja visualizar
+   - `Sair`
