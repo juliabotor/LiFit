@@ -36,9 +36,9 @@ IMAGEM
 
 **O menu inicial é composto por 3 opções:**
     
-    - `Login`: entrar com login e senha e inserir sua classe (aluno ou treinador)
-    - `Cadastrar-se`: inserir login, senha, inserir classe e informações pessoais (nome, peso, altura, gênero de nascimento e idade).
-    - `Sair`: encerrar o app
+   - `Login`: entrar com login e senha e inserir sua classe (aluno ou treinador)
+   - `Cadastrar-se`: inserir login, senha, inserir classe e informações pessoais (nome, peso, altura, gênero de nascimento e idade).
+   - `Sair`: encerrar o app
     
 **Segundo menu:**
    
