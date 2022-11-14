@@ -32,7 +32,7 @@ IMAGEM
 </h4>
 
     
-# :hammer: Funcionalidades do projeto
+# :hammer: Funcionalidades
 
 **O menu inicial é composto por 3 opções:**
     
