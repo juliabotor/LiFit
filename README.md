@@ -47,8 +47,8 @@
 
 # Tecnologias utilizadas
 
-    - `C`
-    - `Replit IDE`
-    - `GitHub
-    - `Programação imperativa e funcional`
+   - `C`
+   - `Replit IDE`
+   - `GitHub
+   - `Programação imperativa e funcional`
     
