@@ -49,6 +49,6 @@
 
    - `C`
    - `Replit IDE`
-   - `GitHub
+   - `GitHub`
    - `Programação imperativa e funcional`
     
