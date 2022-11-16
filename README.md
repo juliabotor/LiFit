@@ -49,9 +49,13 @@
    - `Programação imperativa e funcional`
     
 # Pessoas Desenvolvedoras do Projeto
-   - `Júlia Boto`
-   - `Victor Guerra`
-   - `Dmetrius Souza`
-   - `Gabriel Lopes`
-   - `José Eduardo Silva`
-   - `Stella Gregovich`
+   - `Júlia Boto (CC)`
+   - `Victor Guerra (CC)`
+   - `Dmetrius Souza (CC)`
+   - `Gabriel Lopes (CC)`
+   - `José Eduardo Silva (CC)`
+   - `Stella Gregovich (CC)`
+   - `Ana Clara Flôr (Design)`
+   - `Rafaela Parente (Design)`
+   - `Sophia da Cunha (Design)`
+   - `Valeria Ueta (Design)`
